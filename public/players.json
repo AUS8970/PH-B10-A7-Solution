@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Viral Kohli",
+    "country": "India",
+    "role": "All-Rounder",
+    "rating": "Left-Hand-Bat",
+    "price": 1500000,
+    "image": "../src/assets/p-1.jpeg",
+    "actions": {
+      "button_text": "Choose Player"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "role": "Batsman",
+    "rating": "Right-Hand-Bat",
+    "price": 1700000,
+    "image": "../src/assets/p-9.jpeg",
+    "actions": {
+      "button_text": "Choose Player"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Ben Stokes",
+    "country": "England",
+    "role": "All-Rounder",
+    "rating": "Left-Hand-Bat",
+    "price": 1600000,
+    "image": "../src/assets/p-3.jpeg",
+    "actions": {
+      "button_text": "Choose Player"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "rating": "Right-Hand-Bat",
+    "price": 1400000,
+    "image": "../src/assets/p-4.jpeg",
+    "actions": {
+      "button_text": "Choose Player"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "role": "Bowler",
+    "rating": "Right-Hand-Bowl",
+    "price": 1300000,
+    "image": "../src/assets/p-5.jpeg",
+    "actions": {
+      "button_text": "Choose Player"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "role": "Bowler",
+    "rating": "Right-Hand-Bowl",
+    "price": 1400000,
+    "image": "../src/assets/p-6.jpeg",
+    "actions": {
+      "button_text": "Choose Player"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "role": "Bowler",
+    "rating": "Right-Hand-Bowl",
+    "price": 1200000,
+    "image": "../src/assets/p-7.jpeg",
+    "actions": {
+      "button_text": "Choose Player"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "role": "Wicketkeeper",
+    "rating": "Left-Hand-Bat",
+    "price": 1500000,
+    "image": "../src/assets/p-8.jpeg",
+    "actions": {
+      "button_text": "Choose Player"
+    }
+  },
+  {
+    "id": 9,
+    "name": "David Warner",
+    "country": "Australia",
+    "role": "Batsman",
+    "rating": "Left-Hand-Bat",
+    "price": 1800000,
+    "image": "../src/assets/p-2.jpeg",
+    "actions": {
+      "button_text": "Choose Player"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "rating": "Right-Hand-Bat",
+    "price": 1700000,
+    "image": "../src/assets/p-10.jpeg",
+    "actions": {
+      "button_text": "Choose Player"
+    }
+  }
+]
