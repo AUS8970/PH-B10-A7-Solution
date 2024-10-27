@@ -6,6 +6,7 @@ import Select from './Select';
 import Footer from './Footer';
 import { toast, ToastContainer } from 'react-toastify';
 import playersData from '../public/players';
+import { HashRouter as Router } from 'react-router-dom';
 
 function App() {
   const [coins, setCoins] = useState(0);
@@ -50,6 +51,7 @@ function App() {
   return (
     <>
       <div className="w-11/12 m-auto">
+        <Router />
         <ToastContainer />
         <Header coins={coins} addCoins={addCoins} />
         <div className="flex justify-between p-4 gap-2 mt-12">

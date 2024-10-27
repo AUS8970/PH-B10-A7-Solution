@@ -33,7 +33,7 @@ const Player = ({player, selectPlayer}) => {
 };
 
 Player.propTypes = {
-  player: PropTypes.array,
+  player: PropTypes.object,
   selectPlayer: PropTypes.func
 }
 
